@@ -1,0 +1,2 @@
+# AreaTriangualoRet
+Exercício aula PC
